@@ -20,3 +20,12 @@ Offer recommendation within the telecom sector is indispensable for enhancing cu
 -  Firstly run the 'EDA.ipnyb' notebook.
 -  Secondly run the 'Recommendation_System.ipynb' notebook.
 
+## Goals:
+
+-  Conduct problem-specific exploratory data analysis (EDA).
+-  Comprehend the significance of offer recommendation and its role.
+-  Develop an offer recommendation system tailored to a telecom company's needs.
+
+## Data Overview:
+
+The dataset was provided by a US-based telecom company and consists of information on 98,230 customers. It encompasses a total of 73 unique features that pertain to customer demographics, personal details, and usage patterns.
