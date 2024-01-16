@@ -1,4 +1,6 @@
 # Telecom Recommendation System - Grad School Data Science Project
+![image](https://github.com/zeyadmageid/Telecom_Recommendation_System/assets/52506246/85eee40a-51f8-4af8-85d9-4522b38e702f)
+
 
 # Overview 💡
 
