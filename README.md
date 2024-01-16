@@ -1,4 +1,4 @@
-# Telecom_Recommendation_System
+# Telecom Recommendation System - Grad School Data Science Project
 
 # Overview 💡
 
